@@ -1,6 +1,6 @@
 {
   "name": "cross-glob-spawn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Cross platform spawning with glob support",
   "main": "index.js",
   "scripts": {
